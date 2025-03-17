@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is LangChain or define lanchain?",
+        "answer": "LangChain is a framework for building applications using LLMs."
+    },
+    {
+        "question": "How do I use Gemini API?",
+        "answer": "You can use the Gemini API for text generation and AI-powered conversations."
+    },
+    {
+        "question": "What is LangGraph?",
+        "answer": "LangGraph is a framework that helps create structured multi-step AI workflows."
+    }
+]
